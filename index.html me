@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Priya - BCA Student</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <h2>Priya Sharma</h2>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section class="home">
+        <h1>Hi, I am BCA 2nd Year Student</h1>
+        <p>I know C, HTML, SQL and learning Python. I build small useful projects.</p>
+        <a href="https://github.com/tumhara-username" class="btn">View My GitHub</a>
+    </section>
+
+    <section id="skills">
+        <h2>My Skills</h2>
+        <div class="box">C Language</div>
+        <div class="box">HTML & CSS</div>
+        <div class="box">SQL / DBMS</div>
+        <div class="box">Python (Learning)</div>
+    </section>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+        <div class="project-card">
+            <h3>Student Marks Calculator</h3>
+            <p>C language me banaya hai - total, percentage nikalta hai.</p>
+            <a href="https://github.com/...">GitHub Link</a>
+        </div>
+        <div class="project-card">
+            <h3>Library System</h3>
+            <p>SQL + HTML se books ka record.</p>
+            <a href="https://github.com/...">GitHub Link</a>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: priya@gmail.com | LinkedIn: linkedin.com/in/priya</p>
+    </section>
+</body>
+</html>
